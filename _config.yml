@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Lee keum ju"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lee keum ju"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "201901693 *keumju*"
   location         : "Somewhere"
   email            :
   links:
